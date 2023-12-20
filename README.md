@@ -25,7 +25,6 @@ Previously:
 + /logout -> logs you out to login menu.
 + /chest -> See Chest Items.
 + Visual Gem Amount Display On Gem Spawn (/options).
-+ /logoff -> logs off to login page.
 + /save -> Join Save World
 + /setsave -> Set A Save World
 + /re -> Performs A Last Used Command.
